@@ -8,4 +8,3 @@ majaInitial commit JANJAInitial commit Aleksandar
 majamaja
 
 Test 
-test aleks
